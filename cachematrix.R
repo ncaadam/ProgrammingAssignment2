@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These two function combined will allow you to create a special matrix, store its value, and get that value if needed
 
 ## this function creates a special matrix
 ## it allows you to get and set the following: matrix's value, inverse's value
